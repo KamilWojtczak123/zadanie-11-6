@@ -1,3 +1,7 @@
 .card-placeholder {
     background: #FF0000;
 }
+
+.column-card-list {
+    min-height: 100px;
+}
