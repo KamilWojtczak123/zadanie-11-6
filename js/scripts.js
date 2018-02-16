@@ -1,3 +1,18 @@
+var table = {
+    name: 'project',
+    element: <jQuery element // for example $('div')
+};
+var column = {
+    id: '12j82da20k',
+    name: 'todo',
+    element: <jQuery element> //for example $('div')
+};
+var card = {
+    id: '2kd8s958ka',
+    description: 'Create kaban app',
+    color: 'green',
+    element: <jQuery element>
+};
 $(function(){
     function randomString() {
         var chars = '0123456789abcdefghiklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXTZ';
