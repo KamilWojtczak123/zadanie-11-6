@@ -1,6 +1,6 @@
 var table = {
     name: 'project',
-    element: <jQuery element // for example $('div')
+    element: <jQuery element> // for example $('div')
 };
 var column = {
     id: '12j82da20k',
